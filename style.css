@@ -1,0 +1,7 @@
+/* Addtional styles */
+
+html, body {
+    background: url("assets/swirl_pattern.png") repeat;
+    background-color: rgb(139, 139, 139);
+}
+
