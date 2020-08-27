@@ -5,3 +5,8 @@ html, body {
     background-color: rgb(139, 139, 139);
 }
 
+#propic {
+    float: left;
+    height: 300px;
+    width: 300px;
+}
