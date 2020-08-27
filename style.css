@@ -25,6 +25,10 @@ html, body {
     width: 300px;
 }
 
+#footer {
+    color: white;
+}
+
 @media (max-width: 768px) {
     .container {
         margin: 2%;
